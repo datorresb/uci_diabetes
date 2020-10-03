@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Others
+*.csv
+*.parquet
+*.log
+mlruns/
+
+
 # Distribution / packaging
 .Python
 build/
