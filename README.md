@@ -1,2 +1,4 @@
-# uci_diabetes
-EDA and ML for Diabetes 130-US hospitals for years 1999-2008
+# UCI Diabetes Dataset EDA and ML
+
+Diabetes 130-US hospitals for years 1999-2008
+Source: https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#
