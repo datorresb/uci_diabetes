@@ -7,4 +7,5 @@ Source: https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+ye
 ## Results
 
 * Pandas profiling report: https://github.com/datorresb/uci_diabetes/blob/main/diabetic_report.html
-* Notebook: https://github.com/datorresb/uci_diabetes/blob/main/David_Torres.ipynb
+* Notebook: https://github.com/datorresb/uci_diabetes/blob/main/Diabetes_Study_Predictions_David_Torres.ipynb
+* Notebook HTML: https://github.com/datorresb/uci_diabetes/blob/main/Diabetes_Study_Predictions_David_Torres.html
