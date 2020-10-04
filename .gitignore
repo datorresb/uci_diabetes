@@ -10,6 +10,7 @@ __pycache__/
 *.csv
 *.parquet
 *.log
+*.pkl
 mlruns/
 
 
